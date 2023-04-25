@@ -33,3 +33,12 @@ na primeira linh do css
 .escola{
     background-image: -moz-linear-gradient(#8a1818,rgb(168, 82, 82));
 }
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+
+
